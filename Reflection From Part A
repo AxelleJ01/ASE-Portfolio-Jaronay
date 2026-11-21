@@ -1,0 +1,16 @@
+## Reflection from Part A
+
+### i. What is Agentic Software Engineering?
+Combining Ian Sommerville’s principles of disciplined software development with Russell and Norvig’s concept of intelligent agents, Agentic Software Engineering is the practice of designing, building, and maintaining software systems powered by autonomous AI agents. Instead of only running fixed commands, these systems perceive their environment, make decisions toward specific goals, and use tools to complete tasks while following sound software engineering standards.
+
+### ii. How does an AI agent differ from a traditional software application?
+According to Sommerville, traditional software follows fixed rules and predictable logic where the same input always produces the same output. In contrast, Russell and Norvig explain that an intelligent agent observes its environment through inputs (percepts), tracks internal state, and chooses actions based on goals or utility. Rather than following a rigid script, an AI agent adapts its decisions as conditions change.
+
+### iii. Why are Agile methods appropriate for developing agentic systems?
+As explained in The Scrum Guide (2020), Scrum uses short, iterative Sprints based on transparency, inspection, and adaptation. Because AI agents interact with changing environments and can behave unpredictably, Agile teams the Product Owner, Scrum Master, and Developers can test agent behavior early and improve it step by step. Pairing this with version control practices from Pro Git (Chapters 1–2) also helps developers track changes, test ideas safely, and keep a clear history of code and configurations.
+
+### iv. What risks should developers consider when deploying autonomous AI agents?
+Based on the NIST AI Risk Management Framework, developers must watch out for inaccurate or unsafe outputs, security vulnerabilities, privacy leaks, unfair bias, and a lack of transparency. Because autonomous agents can take actions on their own, poorly tested logic or unguarded tool access can quickly cause real-world errors or harm.
+
+### v. Why is human oversight important in AI-enabled applications?
+Under the NIST AI RMF Govern function, organizations must establish clear accountability, human roles, and safety rules for AI systems. Human oversight ensures that AI agents stay aligned with ethical standards and real-world safety allowing people to review critical decisions, step in when unexpected situations happen, and remain accountable for the system's impact.
