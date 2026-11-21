@@ -1,1 +1,10 @@
+## Course Introduction
 
+**Agentic Software Engineering** explores how artificial intelligence agents are integrated across the software development lifecycle—from requirements and design to coding, testing, deployment, and maintenance.
+
+The course focuses on three core areas:
+- **Human-AI Collaboration:** Building autonomous workflows and applying prompt engineering to boost productivity.
+- **Quality Assurance:** Evaluating AI-generated outputs against professional engineering standards.
+- **Responsible AI:** Applying ethical practices, safety, and human oversight in AI-assisted systems.
+
+This repository documents my hands-on activities, case studies, and reflections throughout the course.
